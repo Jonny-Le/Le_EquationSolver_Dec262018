@@ -1,8 +1,6 @@
 # Le_EquationSolver_Dec262018
 
-## Language: C
-## Kernel: Linux raspberrypi 4.9.59-v7+
-## Complier: GNU Compiler Collection (Raspbian 6.3.0)
+## Language: Python
 ## *** ***Version 1.0*** ***
 ## Last date modified: 12/26/2018
 ## Description:  
